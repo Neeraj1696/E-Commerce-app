@@ -1,0 +1,24 @@
+.headig> h4{
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.main_container{
+
+    width: 150px;
+    background-color:black;
+    text-align: center;
+    margin-top:50px;
+    padding:20px;
+ margin-left: 20px;
+ border-radius: 10px;
+}
+.main_container > a {
+    text-align: center;
+
+}
+.row {
+    justify-content:center;
+    border-radius: 10px;
+}
